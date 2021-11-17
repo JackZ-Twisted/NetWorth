@@ -1,8 +1,6 @@
 import requests
 import webbrowser
-
-def define_unique_userid():
-    id = 0
+from GenerateUserID import Unique_id, Add_Entry
 
 class AddUser:
     def __init__(self, country_code, bank):
@@ -13,7 +11,6 @@ class AddUser:
         self.AUTH = {'Authorization': f'Bearer {self.ACCESS_TOKEN}'}
 
         self.INSTITUTION_ID = self.get_institution()
-        self.REQUISITION_ID = self.get_link()
 
     def get_accounttoken(self):
         SECRET_ID = "3dfedbda-2037-4d5e-9546-cea9fa86185b"
@@ -34,29 +31,28 @@ class AddUser:
 
     def get_link(self):
         #change redirect to web application home URL, when developed
-        Data = {"redirect": "https://www.youtube.com/", "institution_id":f"{self.INSTITUTION_ID}", "reference": "Tester_06", "user_language": "EN"}
+
+        User_id = Unique_id()
+        Data = {"redirect": "https://www.youtube.com/", "institution_id":f"{self.INSTITUTION_ID}", "reference": f"{User_id}", "user_language": "EN"}
         response = requests.post("https://ob.nordigen.com/api/v2/requisitions/", headers=self.AUTH, data=Data).json()
-
+        Add_Entry(User_id, response['id'])
         webbrowser.open(response['link'])
-        return response['id']
 
-    def get_accounts(self):
-        response = requests.get(f"https://ob.nordigen.com/api/v2/requisitions/{self.REQUISITION_ID}/", headers=self.AUTH).json()
-        return response['accounts']
+    # def get_accounts(self):
+    #     response = requests.get(f"https://ob.nordigen.com/api/v2/requisitions/{self.REQUISITION_ID}/", headers=self.AUTH).json()
+    #     return response['accounts']
+    #
+    # def get_data(self, ACCOUNT_ID):
+    #         response = requests.get(f"https://ob.nordigen.com/api/v2/accounts/{ACCOUNT_ID}/transactions/", headers=self.AUTH).json()
+    #         print(response)
 
-    def get_data(self, ACCOUNT_ID):
-            response = requests.get(f"https://ob.nordigen.com/api/v2/accounts/{ACCOUNT_ID}/transactions/", headers=self.AUTH).json()
-            print(response)
 
-
-def CreateLink():
+def main():
     Person = AddUser("gb", "National Westminster Bank")
-    Account_ID = Person.get_accounts()
-    Person.get_data(Account_ID)
 
 
 if __name__ == '__main__':
-    Person = CreateLink()
+    Account_Ids = main()
 
 
 

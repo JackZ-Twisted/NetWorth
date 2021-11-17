@@ -4,6 +4,7 @@ from nordigen import Client
 import os
 import requests
 
+## CREATE A CLASS FOR ALL THE PROCESSES INSTEAD OF MANY FUNCTIONS
 
 def Get_AccessTokens(URL_TOKEN, SECRET_ID, SECRET_KEY):
     Data = {"secret_id": SECRET_ID, "secret_key": SECRET_KEY}
@@ -18,10 +19,49 @@ SECRET_ID = "3dfedbda-2037-4d5e-9546-cea9fa86185b"
 SECRET_KEY = "0861c2c608fd35c1d7aa3d6a5d1dcaf2c3bf07fc3e6fd9e06793a1284e3a3ad25c01c28e190da9113098608fad17e6ae7ea6540362cf102f2a6a4da35092152e"
 
 ACCESS_TOKEN, REFRESH_TOKEN = Get_AccessTokens(URL_TOKEN, SECRET_ID, SECRET_KEY)
-
-URL_AUTH = "https://ob.nordigen.com/api/v2/institutions/?country=gb"
+#%% ##################################################################################
+URL = "https://ob.nordigen.com/api/v2/institutions/?country=gb"
 headers = {'Authorization' : f'Bearer {ACCESS_TOKEN}'}
 
-response = requests.get(URL_AUTH, headers=headers)
+response = requests.get(URL, headers=headers)
 
+for index, bank in enumerate(response.json()):
+    print(bank['name'], bank['id'], index+1)
+
+#%% ##################################################################################
+BANK = "National Westminster Bank"
+BANK_ID = "NATWEST_NWBKGB2L"
+#
+# URL = "https://ob.nordigen.com/api/v2/agreements/enduser/"
+# headers = {'Authorization' : f'Bearer {ACCESS_TOKEN}'}
+# Data ={"institution_id": f"{BANK_ID}", "access_scope": ["balances","details","transactions"]}
+#
+# response = requests.post(URL, headers=headers, data= Data)
+# print(response.json())
+
+
+
+
+
+
+
+
+#%% ##################################################################################
+URL = "https://ob.nordigen.com/api/v2/requisitions/"
+headers = {'Authorization' : f'Bearer {ACCESS_TOKEN}'}
+Data ={"redirect": "https://www.youtube.com/", "institution_id": f"{BANK_ID}"}
+response = requests.post(URL,headers=headers, data = Data)
 print(response.json())
+
+REQUISITION_ID = response.json()['id']
+#%% ##################################################################################
+URL = f"https://ob.nordigen.com/api/v2/requisitions/{REQUISITION_ID}/"
+headers = {'Authorization' : f'Bearer {ACCESS_TOKEN}'}
+response = requests.get(URL,headers=headers)
+print(response.json())
+
+ACCOUNT_ID = ""
+#%% ##################################################################################
+# URL = f"https://ob.nordigen.com/api/v2/accounts/{ACCOUNT_ID}/transactions/"
+# headers = {'Authorization' : f'Bearer {ACCESS_TOKEN}'}
+# response = requests.get(URL,headers=headers)

@@ -8,6 +8,10 @@ class AddUser:
         self.Bank = bank
 
         self.ACCESS_TOKEN, self.REFRESH_TOKEN = self.get_accounttoken()
+
+        with open("AccessToken.txt", 'w') as file:
+            file.write(f'{self.ACCESS_TOKEN}')
+
         self.AUTH = {'Authorization': f'Bearer {self.ACCESS_TOKEN}'}
 
         self.INSTITUTION_ID = self.get_institution()
@@ -16,6 +20,7 @@ class AddUser:
         SECRET_ID = "3dfedbda-2037-4d5e-9546-cea9fa86185b"
         SECRET_KEY = "0861c2c608fd35c1d7aa3d6a5d1dcaf2c3bf07fc3e6fd9e06793a1284e3a3ad25c01c28e190da9113098608fad17e6ae7ea6540362cf102f2a6a4da35092152e"
         Data = {"secret_id": SECRET_ID, "secret_key": SECRET_KEY}
+
         response = requests.post("https://ob.nordigen.com/api/v2/token/new/", data=Data).json()
         return response['access'], response['refresh']
 
@@ -38,13 +43,7 @@ class AddUser:
         Add_Entry(User_id, response['id'])
         webbrowser.open(response['link'])
 
-    # def get_accounts(self):
-    #     response = requests.get(f"https://ob.nordigen.com/api/v2/requisitions/{self.REQUISITION_ID}/", headers=self.AUTH).json()
-    #     return response['accounts']
-    #
-    # def get_data(self, ACCOUNT_ID):
-    #         response = requests.get(f"https://ob.nordigen.com/api/v2/accounts/{ACCOUNT_ID}/transactions/", headers=self.AUTH).json()
-    #         print(response)
+
 
 
 def main():

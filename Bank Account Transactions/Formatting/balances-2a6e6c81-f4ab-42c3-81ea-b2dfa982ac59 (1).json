@@ -1,0 +1,18 @@
+{
+    "balances": [
+        {
+            "balanceAmount": {
+                "amount": "1319.90",
+                "currency": "GBP"
+            },
+            "balanceType": "expected"
+        },
+        {
+            "balanceAmount": {
+                "amount": "1319.90",
+                "currency": "GBP"
+            },
+            "balanceType": "forwardAvailable"
+        }
+    ]
+}

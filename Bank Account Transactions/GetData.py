@@ -15,3 +15,6 @@ def get_data(self, ACCOUNT_ID):
     response = requests.get(f"https://ob.nordigen.com/api/v2/accounts/{ACCOUNT_ID}/transactions/",
                             headers=self.AUTH).json()
     print(response)
+
+
+

@@ -1,0 +1,77 @@
+Transaction Code;Description;Explanation
+103;MT103 Payment;Standardised SWIFT payment message, used specifically for cross border/international wire transfers.
+ACI;Interest on Account Balance;Amount of money a bank, or financial institution pays a depositor for holding their money with the bank
+ADV;Separate Advice;
+AMD;Amendments History;
+ATM;Cash Withdrawal;Any amount obtained by use of the Debit Card, or the PIN, or in any manner authorised by the Debit Cardholder from an ATM the Bank, or any other bank or financial institution for debit to the Account
+BAC;Automated Credit;Any payment into your account that is not cash or cheque
+BAE;Branch Account Entry;
+BCO;Non Market Close Out;
+BGC;Bank Giro Credit;The deposit of cash or a cheque in a bank branch
+BGT;Guarantees; Collateral in exchange for the promise of payment at a future time
+BLN;Bankline Charges;Interest on the money borrowed, but only on the actual amount of funds accessed not on the total line of credit.
+BOE;Bill of Exchange;Written order used primarily in international trade, that binds one party to pay a fixed sum of money to another party on demand or at a predetermined date.
+BSP;Branch single payment;Bill or third-party payment made within a branch.
+C/R;Credit;Credit added to your account
+C/L;Automated teller machine cash withdrawal;
+CAE;Cheque Collection;Document that orders payment of money from a bank account to another person or organisation
+CCB;Cheque Collection;Document that orders payment of money from a bank account to another person or organisation
+CDM;Cash and Deposit Machine;Cash paid into your account
+CHG;Charges;Charge regarding a transaction
+CHP;CHAPS Transfer (NatWest only);
+CHQ;Cheque;Document that orders payment of money from a bank account to another person or organisation
+CNA;Clean Cheque Neg;
+CND;Cheque Negotiation;Cheque negotiation lets you use the money before the cheque has cleared. The amount is usually paid into the account on the third working day after you pay in the cheque. There’s a fee, which depends on the cheque amount
+COM;Commission;
+CRD;Card Payment or Cash; Cash paid into your account
+D/D;Direct Debit;Regular payment of a fixed or variable amount, to a third party or some savings accounts.
+D/R;Debit;Payment card that can be used in place of cash to make purchases, money must be in the bank
+DCR;Documentary Credit;
+DFT;Foreign Draft;
+DIV;Dividend;Distribution of a company's profits to its shareholders.
+DPC;Digital Banking Payment; 
+EBP;Electronic Payment;
+EDC;Enhanced Data Capture (payments made in a branch); Payments made in a branch
+FPAY;Faster Payment - Future Dated (appears on statements as EBP);
+GSD;Gov Stamp Duty;
+IBP;Inter Branch Payment;
+ICP;Inward Currency Payment;
+INT;Interest;
+INV;Investment;
+IPAY;Faster Payment -Immediate (appears on statements as EBP);
+ISP;Inward Sterling Payment;
+ITL;International Transfer & Treasury Settlements (and RBS CHAPS Payments);
+ITM;Incoming CHAPS;
+LON;New Loan;
+LST;Supplementary List;
+LVP;Low Value Payment;
+MEC;Export Credits;
+MFD;Maturing Fwd Deal;
+MGT;Bonds & Guarantees;
+MIB;Inward Bills;
+MIC;Import Credits;
+MKD;Market Deal;
+MOB;Outward Bills;
+MSC;Miscellaneous Entry;
+NDC;No Dividend Counterfoil;
+NPAY;Faster Payment - Next Day (appears on statement as EBP);
+POC;Post Office Counter;
+POS;Maestro Transaction;Maestro is a brand of debit card issued by Mastercard. Maestro cards can be used for in-store payments and for withdrawing cash at ATMs. Most Maestro cards also allow online payments.
+RTF;Relay Transfer;
+S/O;Standing Order;
+SBT;Funds Transfer;
+SCR;Sundry Credit Item;
+SDE;Urgent Euro Transfer;
+SDR;Sundry Debit Item;
+STF;Manually Keyed Standard;
+STL;Settlement;
+TFP;Trade Finance Product;
+TFR;Transfer;
+TRF;International Payment (NatWest only);
+TLR;Teller transaction;
+TEL;Telephone Banking transaction;
+TSU;Telephone Banking;
+U/D;Unpaid Direct Debit;
+UTF;Urgent Transfer;
+WSF;Foreign Exchange Deal;
+WSM;Money Market Deal;

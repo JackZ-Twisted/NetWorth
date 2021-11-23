@@ -51,7 +51,7 @@ def main():
 
 
 if __name__ == '__main__':
-    Account_Ids = main()
+    main()
 
 
 

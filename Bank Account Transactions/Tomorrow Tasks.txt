@@ -1,7 +1,0 @@
-Format all scripts under a single format and properly comment all code
-Finalise "AddAccount.py" Script
-Finalise "FileAccountIds.py" Script
-
-Look at "GenerateUserID.py" and "GetDataForUser.py" Scripts
-
-Create flow chart for using the python scripts within the web application + web application template

@@ -1,0 +1,566 @@
+{
+     "transactions": {
+          "booked": [
+               {
+                    "bookingDate": "2021-11-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18NOV21 C    BEIGEL BAKE       LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-4.90",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD8E752EFA684E4A8D00D8DF29F2AD27E93700E596FF4D360D38956C15CC08651"
+               },
+               {
+                    "bookingDate": "2021-11-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD8E752EFA684E4A8D00D8DF29F2AD27EAEA4D5E89BE223EC726CF329012E0336"
+               },
+               {
+                    "bookingDate": "2021-11-17",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 16NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.80",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2079C430F74EC069C1CC34C41A41889B072C55D2DECC9CAFDC3F667627AE9CA7"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12NOV21      BOULEVARD         BRASSERIE         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-42.86",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAE5335D78BBC11255502620B32DDA1DE39"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-1.55",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAEDBACFAE67D9B04472C6B88BB18316FD2"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-5.20",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAE264CC33DED4ADCA30961985B87085261"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 13NOV21      HRK               TALLINN EE",
+                    "transactionAmount": {
+                         "amount": "-6.62",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAE33C1C6F8745CA651850E392352B0E78C"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "DPC",
+                    "remittanceInformationUnstructured": "JACK              JACK              VIA ONLINE - PYMT FP 15/11/21 10    30002132470780000N",
+                    "transactionAmount": {
+                         "amount": "-33.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAE98DD926F96AF0D175440E0CE686A3F39"
+               },
+               {
+                    "bookingDate": "2021-11-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.50",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DAFA1330E7BBD1166C781D7197CD5A01D3D92B052C35F763775AD54AE2734B93B"
+               },
+               {
+                    "bookingDate": "2021-11-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11NOV21 C    19 20 BAR         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DAFA1330E7BBD1166C781D7197CD5A01D83712A15ACA8CBA4D0D1F241F2A69EFA"
+               },
+               {
+                    "bookingDate": "2021-11-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11NOV21 C    19 20 BAR         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DAFA1330E7BBD1166C781D7197CD5A01DF99051DCC94C0169255C263EA7953594"
+               },
+               {
+                    "bookingDate": "2021-11-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11NOV21 C    19 20 BAR         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DAFA1330E7BBD1166C781D7197CD5A01DBDEDCD10C0E842D519E405E340FD6CA2"
+               },
+               {
+                    "bookingDate": "2021-11-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE47AF1A3338ED0CF621E0F5F69C838EA2E296F54023D4DD072008C9A25687460"
+               },
+               {
+                    "bookingDate": "2021-11-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08NOV21      TRADE OLD STREET  LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-12.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D8514497DD12CE4BBD643A27141971F05B0A4B1484BEBA37E3B9534F95310CE8D"
+               },
+               {
+                    "bookingDate": "2021-11-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D8514497DD12CE4BBD643A27141971F0536489C97FD111107100F370AA033F492"
+               },
+               {
+                    "bookingDate": "2021-11-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07NOV21 C    HALA RESTAURANT   LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-21.21",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D8514497DD12CE4BBD643A27141971F05FDDF721AF6C29DCEEB241522A04258C3"
+               },
+               {
+                    "bookingDate": "2021-11-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 05NOV21      LINKEDIN-69       8*4262843         LNKD.IN/BILL IE",
+                    "transactionAmount": {
+                         "amount": "-24.98",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE8387247C850065A73714E627AA760C8DC5E2476ADFA9C67391690F10EB44AB7"
+               },
+               {
+                    "bookingDate": "2021-11-03",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 02NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD365E4F0B6863D4E8407ED99FB8CD26C1DCA3E9C269BF5180E22F93A71C07B4E"
+               },
+               {
+                    "bookingDate": "2021-11-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30OCT21      STEAM PURCHASE    SEATTLE DE",
+                    "transactionAmount": {
+                         "amount": "-49.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6AC116D8AF9E966C181959F72CE5AEA80607A493BDDBC6A0B9099A65B299A171"
+               },
+               {
+                    "bookingDate": "2021-11-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6AC116D8AF9E966C181959F72CE5AEA8544F22D0528C6F8D2EFD2C63B083AA26"
+               },
+               {
+                    "bookingDate": "2021-11-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29OCT21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBF3E4DB092B5440E1D1DA53B580921883A536E295BF0DD9320F2D6294FAF3A93"
+               },
+               {
+                    "bookingDate": "2021-11-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 31OCT21      CASTLE CLIMBING   LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-13.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBF3E4DB092B5440E1D1DA53B58092188868AC716D8DE8C6096C2F250A919CD87"
+               },
+               {
+                    "bookingDate": "2021-10-29",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "JCW SEARCH LIMITED",
+                    "transactionAmount": {
+                         "amount": "1438.71",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D47D7141352CBBA88DCB10FF450AC4449B740D854A7EF1432E88E6DC13493CEB3"
+               },
+               {
+                    "bookingDate": "2021-10-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 27OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1D118FD9C61AEB3913FA8C235EE9B83EFEFF6557E73345B3A7E4CD8F4F17E966"
+               },
+               {
+                    "bookingDate": "2021-10-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26OCT21      TESCO STORES 6346 ALDGATE GB",
+                    "transactionAmount": {
+                         "amount": "-1.05",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D780D6D790AB443DA205CE4C627CC9F6433735A4D87A92B9C09F187AE8C220212"
+               },
+               {
+                    "bookingDate": "2021-10-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D780D6D790AB443DA205CE4C627CC9F64A087F3D1BB5193D4887D47F1B6560A53"
+               },
+               {
+                    "bookingDate": "2021-10-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26OCT21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D780D6D790AB443DA205CE4C627CC9F6463161058C5D60E6F7965A184CEE1ECBF"
+               },
+               {
+                    "bookingDate": "2021-10-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24OCT21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D69B518558FDEF6447007A27331B5360F83FDE004FFA478890A8003615816591C"
+               },
+               {
+                    "bookingDate": "2021-10-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 22OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D69B518558FDEF6447007A27331B5360F70A2A32AC29D2C6D78A5182D575A651C"
+               },
+               {
+                    "bookingDate": "2021-10-22",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 21OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBBA41AA1C6025758EB779E5B90DAB96B89188B82B89712A7611772E06DA6EE8E"
+               },
+               {
+                    "bookingDate": "2021-10-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6F0CB8F2E81DB5D55EF95318B804DA9C04DC1416F4F0014BBE741CC9B91B7090"
+               },
+               {
+                    "bookingDate": "2021-10-20",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 19OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D80D9CD6F43C1CC97B5EDA8D65055B9C963B981629622A5915B68F1F78C2B7BBB"
+               },
+               {
+                    "bookingDate": "2021-10-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0D8F13A6092CA4AAED5CD4D02F4FBCCE0553FCAD36C5C7EEA988BA0416708B0B"
+               },
+               {
+                    "bookingDate": "2021-10-18",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 15OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D96E803E69AC5217957DC873C24239D39F34C2D7C8FE926E5A8E3433D402A4BBE"
+               },
+               {
+                    "bookingDate": "2021-10-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 14OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0541DA9A95DCC94ADEFB7EE5D9F69691AA2722C5F6037169E2732F8AC16913B6"
+               },
+               {
+                    "bookingDate": "2021-10-14",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 13OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-10.35",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D420DA2155F7519BC5E8443E6AF2EC7F823F21020D13E50153FF6E52365CF0439"
+               },
+               {
+                    "bookingDate": "2021-10-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-11.80",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2EE2ED62959ADF0B965A07C0B3420070237D85C71120B02AED0FC90EE43FB9C6"
+               },
+               {
+                    "bookingDate": "2021-10-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D476CF11DD4C2C39D4BCB9F3D56E87D30D8AA03A6CD17749920449F6E7C347544"
+               },
+               {
+                    "bookingDate": "2021-10-11",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D591736440ADEE98CCD71169192DD3156AC54EB58DDE0691EDFE1C0781D0A284B"
+               },
+               {
+                    "bookingDate": "2021-10-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF6276BA4C96387594E11FF8D8D21AD3B23E1FCBC40CB0C762EE36AA6D86029BC"
+               },
+               {
+                    "bookingDate": "2021-10-07",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 06OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6F6A2F93429DB2E63CD3262DFECCA6EA3DD06C771668470D21B095EBE0E5E6E5"
+               },
+               {
+                    "bookingDate": "2021-10-06",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 05OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6BF4A747C954619DA6483F59F934661F864F839B5114C14CB2E26D1ECC1B8CCE"
+               },
+               {
+                    "bookingDate": "2021-10-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC6A14A594321178D29182FA5DF17B614522E86D11ABFC4E5B2EAAE6441E5D6BA"
+               },
+               {
+                    "bookingDate": "2021-10-04",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFBC9D7D691C3FC93BF3B263F9E32195DBD687444F81873EC96AE24BF7B3E9E11"
+               },
+               {
+                    "bookingDate": "2021-09-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29SEP21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DA66BB7A1C1F5C31A0503EC1CDB00F11ABB11FE4B3D8E73654D8AA034010EEF32"
+               },
+               {
+                    "bookingDate": "2021-09-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26SEP21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D14C50C1F9B582DC24EB4B118B6AC47D1D7A459FCD824FA44E9FCFFC7DC61C4B7"
+               },
+               {
+                    "bookingDate": "2021-09-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24SEP21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D14C50C1F9B582DC24EB4B118B6AC47D1C3498BF6AEFD5497C8483308FD10AFA5"
+               },
+               {
+                    "bookingDate": "2021-09-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12SEP21      PAYPAL *MANGO 3D  35314369001 FR",
+                    "transactionAmount": {
+                         "amount": "-26.84",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1A6680229011E2FB81820C80FCE122FCEBEC6D867DEB8470D8BE58D680053B9A"
+               },
+               {
+                    "bookingDate": "2021-09-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09SEP21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D469D31617B6A6A6C42BB1CCDDFF8CBE14C48D184BB47D059E7E1A661CC023B28"
+               },
+               {
+                    "bookingDate": "2021-09-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09SEP21      IZ *CHAPLINS DELI LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.50",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D469D31617B6A6A6C42BB1CCDDFF8CBE129CA14C064DA933832DACE1D81DC6DB9"
+               },
+               {
+                    "bookingDate": "2021-09-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08SEP21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE6ECC1E0A5303C05831F684C574816BF4755EB923C67DDDCACEFBDEE1FD2A912"
+               },
+               {
+                    "bookingDate": "2021-09-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07SEP21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4B3E5F75D5F03E8969DE13296380F2C547E3AA27BD54C82DA217F9E49CF6962D"
+               },
+               {
+                    "bookingDate": "2021-09-06",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 03SEP21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-361.72",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D9137524C58223552B0D5AE960089340457AAC458EF11B876C8ADAA7F00FD745C"
+               },
+               {
+                    "bookingDate": "2021-09-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 31AUG21      PAYPAL            *SHARKNINJAE      35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0B0550AB085635596446BCC99BDC8674DD6B4C22DDCE37D539B22CE668DAC30B"
+               }
+          ],
+          "pending": [
+               {
+                    "bookingDate": "2021-12-01",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "remittanceInformationUnstructured": "TfL Travel Charge",
+                    "proprietaryBankTransactionCode": "POS"
+               },
+               {
+                    "bookingDate": "2021-12-01",
+                    "transactionAmount": {
+                         "amount": "-6.00",
+                         "currency": "GBP"
+                    },
+                    "remittanceInformationUnstructured": "ZTL*HOSHI",
+                    "proprietaryBankTransactionCode": "POS"
+               }
+          ]
+     }
+}

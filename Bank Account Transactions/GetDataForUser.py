@@ -27,16 +27,34 @@ def get_data(userid, auth):
                     account_ids = line.split()[2]
 
     # Note: Needs to work for multiple accounts with one user
-    # This gets the transaction data (Json file) from the given user id and stores it in a file, in the location
-    # specified by os.path.join
-    response = requests.get(f"https://ob.nordigen.com/api/v2/accounts/{account_ids}/transactions/",
-                            headers=auth
-                            ).json()
-    json_object = json.dumps(response, indent=5)
+    # This gets the transaction,Balance and Details data (Json file) from the given user id and stores it in a file,
+    # in the location specified by os.path.join
+    response_transac = requests.get(f"https://ob.nordigen.com/api/v2/accounts/{account_ids}/transactions/",
+                                    headers=auth
+                                    ).json()
+    response_balances = requests.get(f"https://ob.nordigen.com/api/v2/accounts/{account_ids}/balances/",
+                                    headers=auth
+                                    ).json()
+    response_details = requests.get(f"https://ob.nordigen.com/api/v2/accounts/{account_ids}/details/",
+                                    headers=auth
+                                    ).json()
+
+    json_object_transac = json.dumps(response_transac, indent=5)
+    json_object_balances = json.dumps(response_balances, indent=2)
+    json_object_details = json.dumps(response_details, indent=5)
+
     with open(os.path.join(
             r'C:\Users\Jack\Documents\GitHub\NetWorth\Bank Account Transactions\Formatting\User Transaction Data',
-            f"{userid}.json"), "w") as outfile:
-        outfile.write(json_object)
+            f"{userid}_Transactions.json"), "w") as outfile:
+        outfile.write(json_object_transac)
+    with open(os.path.join(
+            r'C:\Users\Jack\Documents\GitHub\NetWorth\Bank Account Transactions\Formatting\User Transaction Data',
+            f"{userid}_Balances.json"), "w") as outfile:
+        outfile.write(json_object_balances)
+    with open(os.path.join(
+            r'C:\Users\Jack\Documents\GitHub\NetWorth\Bank Account Transactions\Formatting\User Transaction Data',
+            f"{userid}_Details.json"), "w") as outfile:
+        outfile.write(json_object_details)
 
 
 ACCESS_TOKEN, REFRESH_TOKEN = get_accesstoken()

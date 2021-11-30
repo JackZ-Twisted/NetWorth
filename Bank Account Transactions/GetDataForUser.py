@@ -57,6 +57,7 @@ def get_data(userid, auth):
         outfile.write(json_object_details)
 
 
+# Example use of function
 ACCESS_TOKEN, REFRESH_TOKEN = get_accesstoken()
 AUTH = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
 UserID = "Testid_00000009"

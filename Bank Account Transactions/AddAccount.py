@@ -48,7 +48,7 @@ class AddUser:
     # This function increases the total historical transaction data we can pull from user history to 365 days from the
     # default 180
     def user_agreement(self):
-        data = {"max_historical_days": "365"}
+        data = {"max_historical_days": "700", "institution_id": f"{self.INSTITUTION_ID}" }
         response = requests.post(f"https://ob.nordigen.com/api/v2/agreements/enduser/",
                                 headers=self.AUTH, data=data
                                 ).json()

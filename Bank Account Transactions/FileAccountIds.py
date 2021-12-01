@@ -14,6 +14,7 @@ def get_accesstoken():
 
 
 def getall_accountids(auth):
+    open("Account_ids.txt", "w").close()
     with open("User_Ids.txt", "r") as file:
         for line in file:
             if len(line) != 1:
@@ -24,9 +25,8 @@ def getall_accountids(auth):
                 account_ids = response['accounts']
                 account_ids = ",".join(account_ids)
                 newline = " ".join([line.rstrip("\n"), account_ids])
-
-                with open("Account_ids.txt", "a"):
-                    file.write(f"{newline}\n")
+                with open("Account_ids.txt", "a") as acc_file:
+                    acc_file.write(f"{newline}\n")
 
 
 ACCESS_TOKEN, REFRESH_TOKEN = get_accesstoken()

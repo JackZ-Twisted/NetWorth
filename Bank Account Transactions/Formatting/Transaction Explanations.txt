@@ -1,4 +1,4 @@
-Transaction Code;Description;Explanation
+Transaction Code;Code_Description;Explanation
 103;MT103 Payment;Standardised SWIFT payment message, used specifically for cross border/international wire transfers.
 ACI;Interest on Account Balance;Amount of money a bank, or financial institution pays a depositor for holding their money with the bank
 ADV;Separate Advice;

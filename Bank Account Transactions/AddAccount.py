@@ -14,6 +14,7 @@ class AddUser:
         self.ACCESS_TOKEN, self.REFRESH_TOKEN = self.get_accesstoken()
         self.AUTH = {'Authorization': f'Bearer {self.ACCESS_TOKEN}'}
         self.INSTITUTION_ID = self.get_institution()
+        self.AGREEMENT_ID = self.user_agreement()
         self.get_link()
 
     # This function gets the access token from the API to create an authentication code, so we can proceed through the
@@ -44,6 +45,16 @@ class AddUser:
         if not bankexists:
             print("Incorrect institution name, see the documentation!")
 
+    # This function increases the total historical transaction data we can pull from user history to 365 days from the
+    # default 180
+    def user_agreement(self):
+        data = {"max_historical_days": "365"}
+        response = requests.post(f"https://ob.nordigen.com/api/v2/agreements/enduser/",
+                                headers=self.AUTH, data=data
+                                ).json()
+        return response['id']
+
+    # This function provides the user with a link to add their transaction data to our database
     def get_link(self):
         # Note: Change redirect to web application home URL, when developed
 
@@ -55,7 +66,7 @@ class AddUser:
             try:
                 user_id = unique_id(id_)
                 data = {"redirect": "https://www.youtube.com/", "institution_id": f"{self.INSTITUTION_ID}",
-                        "reference": f"{user_id}", "user_language": "EN"}
+                        "reference": f"{user_id}", "agreement": f"{self.AGREEMENT_ID}", "user_language": "EN"}
                 response = requests.post("https://ob.nordigen.com/api/v2/requisitions/",
                                          headers=self.AUTH, data=data
                                          ).json()

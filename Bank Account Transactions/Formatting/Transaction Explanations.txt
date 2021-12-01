@@ -29,7 +29,7 @@ D/R;Debit;Payment card that can be used in place of cash to make purchases, mone
 DCR;Documentary Credit;
 DFT;Foreign Draft;
 DIV;Dividend;Distribution of a company's profits to its shareholders.
-DPC;Digital Banking Payment; 
+DPC;Digital Banking Payment;The transfer of money between two account holders.
 EBP;Electronic Payment;
 EDC;Enhanced Data Capture (payments made in a branch); Payments made in a branch
 FPAY;Faster Payment - Future Dated (appears on statements as EBP);

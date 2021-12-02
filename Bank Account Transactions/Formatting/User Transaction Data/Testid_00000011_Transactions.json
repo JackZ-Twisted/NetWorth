@@ -1,0 +1,2977 @@
+{
+     "transactions": {
+          "booked": [
+               {
+                    "bookingDate": "2021-11-30",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "JCW SEARCH LIMITED",
+                    "transactionAmount": {
+                         "amount": "1399.11",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7EA73A101495EF28D41627057C24A7A94A98463636CA897FC985A3EB0E2881F6"
+               },
+               {
+                    "bookingDate": "2021-11-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26NOV21 C    ZTL*HOSHI         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF7E65786B2A0E11C8A37B0DF73819988DE296C7C6093F55D129841E375613571"
+               },
+               {
+                    "bookingDate": "2021-11-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF7E65786B2A0E11C8A37B0DF738199887FEE1BD776BE4CB086C8AD6F2849B75F"
+               },
+               {
+                    "bookingDate": "2021-11-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD8E752EFA684E4A8D00D8DF29F2AD27EAEA4D5E89BE223EC726CF329012E0336"
+               },
+               {
+                    "bookingDate": "2021-11-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18NOV21 C    BEIGEL BAKE       LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-4.90",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD8E752EFA684E4A8D00D8DF29F2AD27E93700E596FF4D360D38956C15CC08651"
+               },
+               {
+                    "bookingDate": "2021-11-17",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 16NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.80",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2079C430F74EC069C1CC34C41A41889B072C55D2DECC9CAFDC3F667627AE9CA7"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-1.55",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAEDBACFAE67D9B04472C6B88BB18316FD2"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-5.20",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAE264CC33DED4ADCA30961985B87085261"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12NOV21      BOULEVARD         BRASSERIE         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-42.86",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAE5335D78BBC11255502620B32DDA1DE39"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 13NOV21      HRK               TALLINN EE",
+                    "transactionAmount": {
+                         "amount": "-6.62",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAE33C1C6F8745CA651850E392352B0E78C"
+               },
+               {
+                    "bookingDate": "2021-11-15",
+                    "proprietaryBankTransactionCode": "DPC",
+                    "remittanceInformationUnstructured": "JACK              JACK              VIA ONLINE - PYMT FP 15/11/21 10    30002132470780000N",
+                    "transactionAmount": {
+                         "amount": "-33.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1390B2F8DA3CCC5D37807EFE22C0FFAE98DD926F96AF0D175440E0CE686A3F39"
+               },
+               {
+                    "bookingDate": "2021-11-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11NOV21 C    19 20 BAR         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DAFA1330E7BBD1166C781D7197CD5A01DBDEDCD10C0E842D519E405E340FD6CA2"
+               },
+               {
+                    "bookingDate": "2021-11-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11NOV21 C    19 20 BAR         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DAFA1330E7BBD1166C781D7197CD5A01DF99051DCC94C0169255C263EA7953594"
+               },
+               {
+                    "bookingDate": "2021-11-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11NOV21 C    19 20 BAR         LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DAFA1330E7BBD1166C781D7197CD5A01D83712A15ACA8CBA4D0D1F241F2A69EFA"
+               },
+               {
+                    "bookingDate": "2021-11-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.50",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DAFA1330E7BBD1166C781D7197CD5A01D3D92B052C35F763775AD54AE2734B93B"
+               },
+               {
+                    "bookingDate": "2021-11-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE47AF1A3338ED0CF621E0F5F69C838EA2E296F54023D4DD072008C9A25687460"
+               },
+               {
+                    "bookingDate": "2021-11-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D8514497DD12CE4BBD643A27141971F0536489C97FD111107100F370AA033F492"
+               },
+               {
+                    "bookingDate": "2021-11-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08NOV21      TRADE OLD STREET  LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-12.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D8514497DD12CE4BBD643A27141971F05B0A4B1484BEBA37E3B9534F95310CE8D"
+               },
+               {
+                    "bookingDate": "2021-11-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07NOV21 C    HALA RESTAURANT   LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-21.21",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D8514497DD12CE4BBD643A27141971F05FDDF721AF6C29DCEEB241522A04258C3"
+               },
+               {
+                    "bookingDate": "2021-11-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 05NOV21      LINKEDIN-69       8*4262843         LNKD.IN/BILL IE",
+                    "transactionAmount": {
+                         "amount": "-24.98",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE8387247C850065A73714E627AA760C8DC5E2476ADFA9C67391690F10EB44AB7"
+               },
+               {
+                    "bookingDate": "2021-11-03",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 02NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD365E4F0B6863D4E8407ED99FB8CD26C1DCA3E9C269BF5180E22F93A71C07B4E"
+               },
+               {
+                    "bookingDate": "2021-11-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01NOV21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6AC116D8AF9E966C181959F72CE5AEA8544F22D0528C6F8D2EFD2C63B083AA26"
+               },
+               {
+                    "bookingDate": "2021-11-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30OCT21      STEAM PURCHASE    SEATTLE DE",
+                    "transactionAmount": {
+                         "amount": "-49.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6AC116D8AF9E966C181959F72CE5AEA80607A493BDDBC6A0B9099A65B299A171"
+               },
+               {
+                    "bookingDate": "2021-11-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 31OCT21      CASTLE CLIMBING   LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-13.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBF3E4DB092B5440E1D1DA53B58092188868AC716D8DE8C6096C2F250A919CD87"
+               },
+               {
+                    "bookingDate": "2021-11-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29OCT21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBF3E4DB092B5440E1D1DA53B580921883A536E295BF0DD9320F2D6294FAF3A93"
+               },
+               {
+                    "bookingDate": "2021-10-29",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "JCW SEARCH LIMITED",
+                    "transactionAmount": {
+                         "amount": "1438.71",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D47D7141352CBBA88DCB10FF450AC4449B740D854A7EF1432E88E6DC13493CEB3"
+               },
+               {
+                    "bookingDate": "2021-10-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 27OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1D118FD9C61AEB3913FA8C235EE9B83EFEFF6557E73345B3A7E4CD8F4F17E966"
+               },
+               {
+                    "bookingDate": "2021-10-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26OCT21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D780D6D790AB443DA205CE4C627CC9F6463161058C5D60E6F7965A184CEE1ECBF"
+               },
+               {
+                    "bookingDate": "2021-10-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26OCT21      TESCO STORES 6346 ALDGATE GB",
+                    "transactionAmount": {
+                         "amount": "-1.05",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D780D6D790AB443DA205CE4C627CC9F6433735A4D87A92B9C09F187AE8C220212"
+               },
+               {
+                    "bookingDate": "2021-10-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D780D6D790AB443DA205CE4C627CC9F64A087F3D1BB5193D4887D47F1B6560A53"
+               },
+               {
+                    "bookingDate": "2021-10-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 22OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D69B518558FDEF6447007A27331B5360F70A2A32AC29D2C6D78A5182D575A651C"
+               },
+               {
+                    "bookingDate": "2021-10-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24OCT21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D69B518558FDEF6447007A27331B5360F83FDE004FFA478890A8003615816591C"
+               },
+               {
+                    "bookingDate": "2021-10-22",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 21OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBBA41AA1C6025758EB779E5B90DAB96B89188B82B89712A7611772E06DA6EE8E"
+               },
+               {
+                    "bookingDate": "2021-10-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6F0CB8F2E81DB5D55EF95318B804DA9C04DC1416F4F0014BBE741CC9B91B7090"
+               },
+               {
+                    "bookingDate": "2021-10-20",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 19OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D80D9CD6F43C1CC97B5EDA8D65055B9C963B981629622A5915B68F1F78C2B7BBB"
+               },
+               {
+                    "bookingDate": "2021-10-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0D8F13A6092CA4AAED5CD4D02F4FBCCE0553FCAD36C5C7EEA988BA0416708B0B"
+               },
+               {
+                    "bookingDate": "2021-10-18",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 15OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D96E803E69AC5217957DC873C24239D39F34C2D7C8FE926E5A8E3433D402A4BBE"
+               },
+               {
+                    "bookingDate": "2021-10-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 14OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0541DA9A95DCC94ADEFB7EE5D9F69691AA2722C5F6037169E2732F8AC16913B6"
+               },
+               {
+                    "bookingDate": "2021-10-14",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 13OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-10.35",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D420DA2155F7519BC5E8443E6AF2EC7F823F21020D13E50153FF6E52365CF0439"
+               },
+               {
+                    "bookingDate": "2021-10-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-11.80",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2EE2ED62959ADF0B965A07C0B3420070237D85C71120B02AED0FC90EE43FB9C6"
+               },
+               {
+                    "bookingDate": "2021-10-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D476CF11DD4C2C39D4BCB9F3D56E87D30D8AA03A6CD17749920449F6E7C347544"
+               },
+               {
+                    "bookingDate": "2021-10-11",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D591736440ADEE98CCD71169192DD3156AC54EB58DDE0691EDFE1C0781D0A284B"
+               },
+               {
+                    "bookingDate": "2021-10-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF6276BA4C96387594E11FF8D8D21AD3B23E1FCBC40CB0C762EE36AA6D86029BC"
+               },
+               {
+                    "bookingDate": "2021-10-07",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 06OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6F6A2F93429DB2E63CD3262DFECCA6EA3DD06C771668470D21B095EBE0E5E6E5"
+               },
+               {
+                    "bookingDate": "2021-10-06",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 05OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6BF4A747C954619DA6483F59F934661F864F839B5114C14CB2E26D1ECC1B8CCE"
+               },
+               {
+                    "bookingDate": "2021-10-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC6A14A594321178D29182FA5DF17B614522E86D11ABFC4E5B2EAAE6441E5D6BA"
+               },
+               {
+                    "bookingDate": "2021-10-04",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01OCT21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFBC9D7D691C3FC93BF3B263F9E32195DBD687444F81873EC96AE24BF7B3E9E11"
+               },
+               {
+                    "bookingDate": "2021-09-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29SEP21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DA66BB7A1C1F5C31A0503EC1CDB00F11ABB11FE4B3D8E73654D8AA034010EEF32"
+               },
+               {
+                    "bookingDate": "2021-09-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24SEP21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D14C50C1F9B582DC24EB4B118B6AC47D1C3498BF6AEFD5497C8483308FD10AFA5"
+               },
+               {
+                    "bookingDate": "2021-09-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26SEP21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D14C50C1F9B582DC24EB4B118B6AC47D1D7A459FCD824FA44E9FCFFC7DC61C4B7"
+               },
+               {
+                    "bookingDate": "2021-09-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12SEP21      PAYPAL *MANGO 3D  35314369001 FR",
+                    "transactionAmount": {
+                         "amount": "-26.84",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1A6680229011E2FB81820C80FCE122FCEBEC6D867DEB8470D8BE58D680053B9A"
+               },
+               {
+                    "bookingDate": "2021-09-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09SEP21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D469D31617B6A6A6C42BB1CCDDFF8CBE14C48D184BB47D059E7E1A661CC023B28"
+               },
+               {
+                    "bookingDate": "2021-09-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09SEP21      IZ *CHAPLINS DELI LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-6.50",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D469D31617B6A6A6C42BB1CCDDFF8CBE129CA14C064DA933832DACE1D81DC6DB9"
+               },
+               {
+                    "bookingDate": "2021-09-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08SEP21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-8.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE6ECC1E0A5303C05831F684C574816BF4755EB923C67DDDCACEFBDEE1FD2A912"
+               },
+               {
+                    "bookingDate": "2021-09-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07SEP21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-9.60",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4B3E5F75D5F03E8969DE13296380F2C547E3AA27BD54C82DA217F9E49CF6962D"
+               },
+               {
+                    "bookingDate": "2021-09-06",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 03SEP21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-361.72",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D9137524C58223552B0D5AE960089340457AAC458EF11B876C8ADAA7F00FD745C"
+               },
+               {
+                    "bookingDate": "2021-09-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 31AUG21      PAYPAL            *SHARKNINJAE      35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0B0550AB085635596446BCC99BDC8674DD6B4C22DDCE37D539B22CE668DAC30B"
+               },
+               {
+                    "bookingDate": "2021-08-31",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29AUG21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1A95783F8DC84E9736BF4218876A791629985CB6AF0DA3B97FDB23D5DE9C5015"
+               },
+               {
+                    "bookingDate": "2021-08-31",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30AUG21      PAYPAL *MYPROTEIN 35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-94.78",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1A95783F8DC84E9736BF4218876A7916AFEB7291D75DEDFA74F8EAF4E76B887F"
+               },
+               {
+                    "bookingDate": "2021-08-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26AUG21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DABE1BBB237BC3EC71984AD6557025CA96C8FDE5114506409D6EC6ECEF9209548"
+               },
+               {
+                    "bookingDate": "2021-08-26",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 25AUG21      COURSRA*2VS       JGICPAQ0VF6       SCHIPHOL NL",
+                    "transactionAmount": {
+                         "amount": "-57.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4B6FB833180BB0A48A7E2686480D056980D4968D44EE492E658F21AE93AE5AA0"
+               },
+               {
+                    "bookingDate": "2021-08-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24AUG21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE07CFB7CAC1CFA8B6CCBF54B346773FE45737085F13946F2A17F62AE992E97A1"
+               },
+               {
+                    "bookingDate": "2021-08-23",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20AUG21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-179.95",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6E3ED65D87E297D268A6175FC57541895BFCA2E901709CEB037BC145FE77381C"
+               },
+               {
+                    "bookingDate": "2021-08-18",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 17AUG21      NORTON            *AP1355021857     DUBLIN IE",
+                    "transactionAmount": {
+                         "amount": "-59.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6F460D3BF664EAF6683EC40C4D067641A763DDD601F18FA5E8DB626AF6B5C49F"
+               },
+               {
+                    "bookingDate": "2021-08-11",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 10AUG21      GENESIS FOODS     LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-90.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC132CC194A2DFA699B846C6BC128E5F47F06D51975B2596D557045351A121B91"
+               },
+               {
+                    "bookingDate": "2021-08-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08AUG21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-21.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD52A9D7844E34A901D03C5C45DCE82DA894C139EBF3EF1EE43A2DDB64223B396"
+               },
+               {
+                    "bookingDate": "2021-08-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04AUG21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-21.89",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D75BDC0E370C1FB5078A84546F3015C18CAB952FD287D8667547698556E163108"
+               },
+               {
+                    "bookingDate": "2021-07-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29JUL21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB9E9A856F0EC0CDA90FD241FCFA4FB5B82477E644238847FF5D6D78065DA26ED"
+               },
+               {
+                    "bookingDate": "2021-07-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JUL21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D77D839C4AF508D15E50A3DD405508A310AFF68F672CEDD31B0A09DAF943EF957"
+               },
+               {
+                    "bookingDate": "2021-07-26",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JUL21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6CE4FDCFEA49A34A165478B9B2A7589851BA1198864BAE8E7BE1A4406B48AC5D"
+               },
+               {
+                    "bookingDate": "2021-07-23",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 22JUL21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-39.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7247B1EE71F71C07885BF17A1F1388CD8D28BEAE945FE53945D42D080C449DCB"
+               },
+               {
+                    "bookingDate": "2021-07-23",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "PURE GYM LTD      INITIAL PAYMENT",
+                    "transactionAmount": {
+                         "amount": "-22.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7247B1EE71F71C07885BF17A1F1388CD1ABE913331D44504A2C1E0EFFC9B57C2"
+               },
+               {
+                    "bookingDate": "2021-07-20",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 19JUL21      PAYPAL *MEDICHECKS35314369001 GB    REFUND",
+                    "transactionAmount": {
+                         "amount": "30.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D77A1EEC8976D57768A9CBEAECE7FDBC5B7E4AA52F13677976DD89C084F0C1EE9"
+               },
+               {
+                    "bookingDate": "2021-07-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07JUL21      PAYPAL *MEDICHECKS35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-92.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1D0F19122C91D3B45D31FCCB063C8B2D8D48D83C0B4F6C794795127899E4C0C3"
+               },
+               {
+                    "bookingDate": "2021-07-06",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 05JUL21      AMZNMKTPLACE      AMAZON.CO         AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-31.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D13662108A0BCC4387AA2F128BC34263FF004F3A0C759E920A4590CE360589BA4"
+               },
+               {
+                    "bookingDate": "2021-07-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 03JUL21      AMAZON.CO.U       K*208KC7TA4       AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-1.69",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4A458133C892BFAD4CF89D8CD3F92F19E0265905A60708666E2BF61C195C393B"
+               },
+               {
+                    "bookingDate": "2021-07-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04JUL21      AMAZON.CO.U       K*208281AC4       AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-3.83",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4A458133C892BFAD4CF89D8CD3F92F1926142973FFEFEE8D937BC7AC6F0E36A9"
+               },
+               {
+                    "bookingDate": "2021-07-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04JUL21      AMAZON.CO.U       K*205JT8AS4       AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-10.86",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4A458133C892BFAD4CF89D8CD3F92F1966B19BA45C16FCCA9B39AFD9205AAD87"
+               },
+               {
+                    "bookingDate": "2021-07-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01JUL21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-17.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB3C3B50B439A69A94653E0D0984BDB15C9DA1935C84B8E796B59ED673C94A003"
+               },
+               {
+                    "bookingDate": "2021-06-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29JUN21      DOCTAP GP         APPOINTMENT       GLENTHORNE RD GB  REFUND",
+                    "transactionAmount": {
+                         "amount": "59.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D86D1AA16F203CBBAAA24AA65C690B329F243441CA8DBA3B47A55F7E4F02DF735"
+               },
+               {
+                    "bookingDate": "2021-06-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29JUN21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D86D1AA16F203CBBAAA24AA65C690B329691170152968F52092896B818A47BF9E"
+               },
+               {
+                    "bookingDate": "2021-06-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 28JUN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-8.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DCA3AF7F6E529E2AF90862AD0365DEFC0745451C3AC9120761A86FD3B76D47DB6"
+               },
+               {
+                    "bookingDate": "2021-06-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 25JUN21      PAYPAL *MEDICHECKS35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-179.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2FD469AA574884AF6224ABF8F8F922DF5A064785984BF7A926C34964466B6125"
+               },
+               {
+                    "bookingDate": "2021-06-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JUN21      PAYPAL *MEDICHECKS35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-248.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2FD469AA574884AF6224ABF8F8F922DF006C7213D8E854D35D918A1E0FC5B035"
+               },
+               {
+                    "bookingDate": "2021-06-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JUN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-12.89",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2FD469AA574884AF6224ABF8F8F922DF3C6BF0320B03F5C358C45B9C391170D3"
+               },
+               {
+                    "bookingDate": "2021-06-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JUN21 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-6.40",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2FD469AA574884AF6224ABF8F8F922DFA5AB1E108619B99476A921F42C6618FA"
+               },
+               {
+                    "bookingDate": "2021-06-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JUN21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2FD469AA574884AF6224ABF8F8F922DF7BC881B94CB982F31E302A7CB50651E5"
+               },
+               {
+                    "bookingDate": "2021-06-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JUN21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DED441105C662CD50F04FC0CDF6116CBBDB7453752AD31A82DA8B6FEA12A2B11B"
+               },
+               {
+                    "bookingDate": "2021-06-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JUN21      DOCTAP GP         APPOINTMENT       GLENTHORNE RD GB  REFUND",
+                    "transactionAmount": {
+                         "amount": "59.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DED441105C662CD50F04FC0CDF6116CBB9B01C452E5358A7BA735FF65F3B3859A"
+               },
+               {
+                    "bookingDate": "2021-06-24",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 23JUN21      PAYPAL *ADAZZY983 35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-17.58",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D76D0A4EB85E0E43A584D8950AF37EB281719479F035E18C436EC45A345182C45"
+               },
+               {
+                    "bookingDate": "2021-06-23",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 22JUN21      DOCTAP GP         APPOINTMENT       GLENTHORNE RD GB",
+                    "transactionAmount": {
+                         "amount": "-59.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1A36AE108D4205D5028FC56F0232262021E83368D062F50B594508E0215CAAD7"
+               },
+               {
+                    "bookingDate": "2021-06-23",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 22JUN21      DOCTAP GP         APPOINTMENT       GLENTHORNE RD GB",
+                    "transactionAmount": {
+                         "amount": "-59.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1A36AE108D4205D5028FC56F02322620B1067E667919FD56003CC579EE4DF19B"
+               },
+               {
+                    "bookingDate": "2021-06-23",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 21JUN21      PAYPAL *ADAZZY983 35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-79.30",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1A36AE108D4205D5028FC56F023226203BB6F08F47A0CD7292B4EA37EFFF5268"
+               },
+               {
+                    "bookingDate": "2021-06-22",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 21JUN21      PUREGYM LIMITED   LEEDS GB",
+                    "transactionAmount": {
+                         "amount": "-47.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3FC2190F83A5FE88C247EE450D170A83B698E8BCA64E2C9CB3347B273BF4BB3D"
+               },
+               {
+                    "bookingDate": "2021-06-22",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 21JUN21      AMAZON.CO.U       K*282ZG66T4       AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-199.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3FC2190F83A5FE88C247EE450D170A83D2C9774CAED2147423B1637E38905B78"
+               },
+               {
+                    "bookingDate": "2021-06-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18JUN21 C    COMPASS GRP T/A   M&S SI            LEIGH WEST MO GB",
+                    "transactionAmount": {
+                         "amount": "-2.25",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE75953838D59C8A18B101D30CEB58F17710681BFECFA9DD9A12F443EF5EBF262"
+               },
+               {
+                    "bookingDate": "2021-06-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18JUN21      GENESIS FOODS     LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-60.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE75953838D59C8A18B101D30CEB58F178573CFAE715BBFAFB492AE573112FBFC"
+               },
+               {
+                    "bookingDate": "2021-06-21",
+                    "proprietaryBankTransactionCode": "DPC",
+                    "remittanceInformationUnstructured": "GODINHO CALDAS M GMARIA CALDAS      VIA MOBILE - PYMT",
+                    "transactionAmount": {
+                         "amount": "200.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE75953838D59C8A18B101D30CEB58F179A6419C54FC9BED7774B13787145D24A"
+               },
+               {
+                    "bookingDate": "2021-06-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18JUN21 C    TESCO STORE 2905  MINEHEAD GB",
+                    "transactionAmount": {
+                         "amount": "-25.63",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE75953838D59C8A18B101D30CEB58F17CDB3E29D4233BC63EDA2BE9260C8851C"
+               },
+               {
+                    "bookingDate": "2021-06-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 14JUN21      AMZ*S-ZONE DIRECT AMAZON.CO.UK GB   REFUND",
+                    "transactionAmount": {
+                         "amount": "36.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D39991E516C9939F0EB4E569E4535E54CC657BC7AAC580B81B86AE4F3B50587C6"
+               },
+               {
+                    "bookingDate": "2021-06-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 15JUN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-36.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D39991E516C9939F0EB4E569E4535E54CD4E25A7228D73BD9173556B87CC9E84C"
+               },
+               {
+                    "bookingDate": "2021-06-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 14JUN21      AMAZON.CO.U       K*288JJ70D4       AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-18.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D39991E516C9939F0EB4E569E4535E54C1347D8C484A7406A71CDEC689A8E0CC7"
+               },
+               {
+                    "bookingDate": "2021-06-14",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0D474A88D750A44D93E6A48A85F4FDA68B9CBF477D61B1BCE964A01223CBDC81"
+               },
+               {
+                    "bookingDate": "2021-06-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 10JUN21      AMAZON.CO.U       K*280A85LD4       AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-24.24",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D34CC18C4850CC9F8DD2E2686BD2A1E5026FC85910DE65F3EACECEA68302E3106"
+               },
+               {
+                    "bookingDate": "2021-06-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09JUN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-18.90",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D34CC18C4850CC9F8DD2E2686BD2A1E50AFF4A7AAD861DB9836E230220F805688"
+               },
+               {
+                    "bookingDate": "2021-06-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08JUN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-36.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D00A83B77E444CAC9A07770B9DF74CAA9069A4EF636AF9400775AE0BAAE73FA5D"
+               },
+               {
+                    "bookingDate": "2021-06-07",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 06JUN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-5.95",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D839568ABB11C2E807DFA2EAA0B8FD7CFD4BEBEF868B7A326FD23268E9CE088ED"
+               },
+               {
+                    "bookingDate": "2021-06-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01JUN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-48.30",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DA936ACB92BA7F1DC5FE9B5EDBBD18BC50C389661462917A7856BFE1F0CBA8B53"
+               },
+               {
+                    "bookingDate": "2021-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 31MAY21      POLAR ELECTRO     X CH",
+                    "transactionAmount": {
+                         "amount": "-159.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD3F0F4724D8BEFB3036BD20CC8518061499FA900DA26874BE66557524CD7915C"
+               },
+               {
+                    "bookingDate": "2021-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 31MAY21      AMAZON.CO.U       K*2T97C6DZ4       AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-6.27",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD3F0F4724D8BEFB3036BD20CC8518061398501F917AC3A11B33448D1FF064501"
+               },
+               {
+                    "bookingDate": "2021-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-11.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD3F0F4724D8BEFB3036BD20CC8518061CCBB4FDBA90D7555F967FF8B33EECEC5"
+               },
+               {
+                    "bookingDate": "2021-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30MAY21      GENESIS FOODS     LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-60.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD3F0F4724D8BEFB3036BD20CC851806119298799E3279F5798EDF377404C4FEB"
+               },
+               {
+                    "bookingDate": "2021-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29MAY21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD3F0F4724D8BEFB3036BD20CC8518061568C6F9BC880FC950B597A9B74E08BC0"
+               },
+               {
+                    "bookingDate": "2021-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-24.96",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD3F0F4724D8BEFB3036BD20CC8518061CE63381D618536ADF7AC663D24A1EE4E"
+               },
+               {
+                    "bookingDate": "2021-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30MAY21      AMAZON.CO.U       K*2T4WS0HA4       AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-15.76",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD3F0F4724D8BEFB3036BD20CC8518061873DD460FE840F071A4BBD8B5E3EB48D"
+               },
+               {
+                    "bookingDate": "2021-05-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAY21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD13C2D072814FA217781BA1F1FBDA275FF8E92E7532A7ED73A6D39C50DC375A8"
+               },
+               {
+                    "bookingDate": "2021-05-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-8.40",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD13C2D072814FA217781BA1F1FBDA275FE078D1B781EFE56050664C516FB5AD1"
+               },
+               {
+                    "bookingDate": "2021-05-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-7.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD13C2D072814FA217781BA1F1FBDA275BBE0E86C0B8FA1FE83E776C83932E513"
+               },
+               {
+                    "bookingDate": "2021-05-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24MAY21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D9F62C823C901BFACF36FFD3AB3B33FA5CF68E3C4194AD17EE0680FD611BEE6E1"
+               },
+               {
+                    "bookingDate": "2021-05-24",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 22MAY21      WWW.HUEL.COM      TRING GB",
+                    "transactionAmount": {
+                         "amount": "-55.56",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D98B267D8BEAA4691503FD89ED9377995FE9E5BA874FB252E3BE8AD10D519F3A6"
+               },
+               {
+                    "bookingDate": "2021-05-24",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 23MAY21      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-28.17",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D98B267D8BEAA4691503FD89ED937799514A87A3881C4D589BEB51A40079B775E"
+               },
+               {
+                    "bookingDate": "2021-05-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 17MAY21      PAYPAL            *JETBRAINSSR      35314369001 CZ",
+                    "transactionAmount": {
+                         "amount": "-142.80",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D396CC8979FE7D25123C21DD800E80B3520D994F796B0FB3DAE7CD31C01BE88A9"
+               },
+               {
+                    "bookingDate": "2021-05-17",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 14MAY21      AMAZON.CO.U       K*MK6GO2KX4       AMAZON.CO.UK LU",
+                    "transactionAmount": {
+                         "amount": "-22.68",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB3AF58B6BC1F72BF9EBA2EED716D6EBBCAEA96E678FAC16617B9A9439D4CD2B3"
+               },
+               {
+                    "bookingDate": "2021-05-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-3.39",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC01597444FBEBC0D3B14791D29304E066A346B68D40BF9A9CB11D96CB711D156"
+               },
+               {
+                    "bookingDate": "2021-05-12",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D699EC0F1AB708C28F800E3632879E52201537775550EA7DCFF4170E1ED826D32"
+               },
+               {
+                    "bookingDate": "2021-05-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3DEC57A89220E0C7CA7A22690B63F1D02262F2DE76B7BA6CBF0C83C5995DF0E6"
+               },
+               {
+                    "bookingDate": "2021-05-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-6.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3DEC57A89220E0C7CA7A22690B63F1D0136513C046BBBA997D75F68EA9AC4FF3"
+               },
+               {
+                    "bookingDate": "2021-05-07",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 06MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-27.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D9A8DF81654F13DF1B535ED552A95C91F483A60C22AFA0104F2632215983674E1"
+               },
+               {
+                    "bookingDate": "2021-05-07",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-12.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D9A8DF81654F13DF1B535ED552A95C91F5B578E3C773ED0262526D6E2C0AF7DD3"
+               },
+               {
+                    "bookingDate": "2021-05-06",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 05MAY21      ROYAL MAIL GROUP  LTD               CHESTERFIELD GB",
+                    "transactionAmount": {
+                         "amount": "-1.70",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBB427F18AD0FAB285E86395E22FA4594DA9DF02C4E8CA6528C77F42F41A842B8"
+               },
+               {
+                    "bookingDate": "2021-05-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04MAY21      AMAZON.CO.U       K*MK3MZ2EM4       AMAZON.CO.UK LU",
+                    "transactionAmount": {
+                         "amount": "-6.59",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D10B006A8FEBFD5B550E0742E5C38B111F939898AAC2F1155F2E88F6A59DD9CDF"
+               },
+               {
+                    "bookingDate": "2021-05-04",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01MAY21      AMAZON.CO.U       K*MK45U7NG4       AMAZON.CO.UK LU",
+                    "transactionAmount": {
+                         "amount": "-18.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7D17E3C8DEF926019B6A6D754205E4F16576B08D2294EECFFF168755C0E7E533"
+               },
+               {
+                    "bookingDate": "2021-05-04",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30APR21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-17.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7D17E3C8DEF926019B6A6D754205E4F1B80C4F39EEB70175318CD6B0C45AAFC8"
+               },
+               {
+                    "bookingDate": "2021-05-04",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01MAY21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-8.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7D17E3C8DEF926019B6A6D754205E4F186B0B9E8CF7A5F691B973AA8AE5E1D8C"
+               },
+               {
+                    "bookingDate": "2021-05-04",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30APR21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-16.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7D17E3C8DEF926019B6A6D754205E4F1A03DF046AE2B287DDD120DD6C444E7E1"
+               },
+               {
+                    "bookingDate": "2021-05-04",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30APR21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-6.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7D17E3C8DEF926019B6A6D754205E4F17E703F15C52398627649EB1C1EF72F1D"
+               },
+               {
+                    "bookingDate": "2021-04-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29APR21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D42A26809E8C6B0DE34EB8A37365E571B6BD74DF94C346ECD16FA507D486160DE"
+               },
+               {
+                    "bookingDate": "2021-04-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26APR21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D05C75A3F9C3D5A20488B070BF0AD4387C2B6D191D2A1D4A46AF81307041E51DA"
+               },
+               {
+                    "bookingDate": "2021-04-26",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24APR21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1EE86393E288020225A816F7A066AC61273723FBB4C89504CDB73B1D96535BF5"
+               },
+               {
+                    "bookingDate": "2021-04-20",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 19APR21      AMAZON.CO.U       K*M44CT5QE4       AMAZON.CO.UK LU",
+                    "transactionAmount": {
+                         "amount": "-10.98",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D14F8A436BBC641FD8612233E6719BEC86F8F82ED0C1EF0F99F19AC412DD0E840"
+               },
+               {
+                    "bookingDate": "2021-04-12",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D647B20E20EC1FFFCADAE0AC26D51E71FC90C2210BA75BB3E289B6278AE947A98"
+               },
+               {
+                    "bookingDate": "2021-03-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29MAR21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF91DD150E7A6EA0D4F2BA20CCE3066C8E9FE7E7083468DA625E1176B4E4938D3"
+               },
+               {
+                    "bookingDate": "2021-03-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAR21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1CC638D5A0A50A9F8CC37E5C87C79BC4AA088C9420B76F83E770BA5EFD8DE0B9"
+               },
+               {
+                    "bookingDate": "2021-03-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAR21      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1CC638D5A0A50A9F8CC37E5C87C79BC44EBDCB31AE621F9F0C6914192CC84BFA"
+               },
+               {
+                    "bookingDate": "2021-03-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24MAR21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D66450820DBC5F6F903BE073F42286EAA5C31E8F68205466517F18A0CEE999CF0"
+               },
+               {
+                    "bookingDate": "2021-03-12",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2F9DC8A02BAF27B7DFEDEBDA2212FE8B648E40C56E6D99CA9A2B79C44F5A6AA9"
+               },
+               {
+                    "bookingDate": "2021-03-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 05MAR21      DVLA DRIVER ONLINESWANSEA GB",
+                    "transactionAmount": {
+                         "amount": "-34.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1CD1E62E3219591E58A2E7C2AC61DCBF26357DD29E6B73D04E95FC222B1E6ED5"
+               },
+               {
+                    "bookingDate": "2021-03-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 28FEB21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBB0E9948A63AA53E77F4C24B2B042D748018F3DC79E713395EC13EC719DCEC48"
+               },
+               {
+                    "bookingDate": "2021-03-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26FEB21      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBB0E9948A63AA53E77F4C24B2B042D74B792876EB3E175C2C73B8A2D40D77BBD"
+               },
+               {
+                    "bookingDate": "2021-03-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26FEB21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBB0E9948A63AA53E77F4C24B2B042D74C038FC4B7D4EB6D566325FCFF7FC7DEE"
+               },
+               {
+                    "bookingDate": "2021-02-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24FEB21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE4EF5D084EA8DF74C9453A28E08F93761E64D81DE5467099B8A06C09C66537F7"
+               },
+               {
+                    "bookingDate": "2021-02-12",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF0168EBBAC8410E8499C39F7D9F9DAE05AA1094A1FC8497E49D93E9197E47FDD"
+               },
+               {
+                    "bookingDate": "2021-02-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29JAN21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D75AE2703355886A36963710D3B3F27BBC8F01A5ECED29F6EF38E4A68A3FEC2DC"
+               },
+               {
+                    "bookingDate": "2021-01-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 27JAN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-17.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0D1E60C50B96CC6EF0C58E78EA256DFC58331609ADECB08BC7B7FEFD82C38755"
+               },
+               {
+                    "bookingDate": "2021-01-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JAN21      PAYPAL            *GAMER2GAMER      4029357733 SG",
+                    "transactionAmount": {
+                         "amount": "-8.27",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0D1E60C50B96CC6EF0C58E78EA256DFC8E21AF76524503D1054FBD7EED796C5E"
+               },
+               {
+                    "bookingDate": "2021-01-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JAN21      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFAA76F421A45B90C9E9B74A6396ED0508F2040FBAEAE19DDF8585D3DDF7DCDC0"
+               },
+               {
+                    "bookingDate": "2021-01-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JAN21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFAA76F421A45B90C9E9B74A6396ED05089C92038CF999EF9AEBA1E8CCF320783"
+               },
+               {
+                    "bookingDate": "2021-01-26",
+                    "proprietaryBankTransactionCode": "CDM",
+                    "remittanceInformationUnstructured": "600738 26JAN 1246",
+                    "transactionAmount": {
+                         "amount": "931.69",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D540B749059A08C73DE0F35497C0AB7BB4A801FBD1FD7F4194E4D7240CC95E60E"
+               },
+               {
+                    "bookingDate": "2021-01-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JAN21      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4A6686D650A3D412569780ACF3C105F484D510080F8200534A112FC2E6E27807"
+               },
+               {
+                    "bookingDate": "2021-01-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 21JAN21      SKIN DROP, LLC    800-983-0448 US   USD         119.85VRATE       1.3620N-S TRN FEE   2.42",
+                    "transactionAmount": {
+                         "amount": "-90.41",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D109B70792DC3FBEE4113CA1595AC334316500F87B9D168620F9DEECC80173A7B"
+               },
+               {
+                    "bookingDate": "2021-01-18",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 15JAN21      SM.NORD* VPNCOM   LONDON GB         USD         106.80VRATE       1.3555N-S TRN FEE   2.17",
+                    "transactionAmount": {
+                         "amount": "-80.96",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0A1B675A7E697A0B06DAC1D554CCF358F5B87314C9F19249B654CBF7DA002A87"
+               },
+               {
+                    "bookingDate": "2021-01-12",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D07DFD0AF6C58878873433B002EC9E6ECBC55980814C9F27B41B769B7F6999E3A"
+               },
+               {
+                    "bookingDate": "2021-01-07",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 06JAN21      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-22.90",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC5F205EA4BE50FF32E5DA70B074C5216826B6CBD7ABD1697109560035C338116"
+               },
+               {
+                    "bookingDate": "2020-12-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29DEC20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D74ADBB09D6E2B257498CEF6EC701B29048B5D024F42D6C20C88EA67CB684A953"
+               },
+               {
+                    "bookingDate": "2020-12-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24DEC20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D17BEF535187478FF25102CB27D5BBDD29C6652767B7FA7FE2B7EA517913ACC2E"
+               },
+               {
+                    "bookingDate": "2020-12-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26DEC20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D17BEF535187478FF25102CB27D5BBDD26901CADFDC2A5B0A9FB2C4892DBF6CF9"
+               },
+               {
+                    "bookingDate": "2020-12-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26DEC20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D17BEF535187478FF25102CB27D5BBDD215E793F3C868DD6F120E8E2A4DEF136C"
+               },
+               {
+                    "bookingDate": "2020-12-14",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DDE3D35F5A7821A15BE1F9B82AC04C0F0678D68905BD5D234C6A80CC9F25AA039"
+               },
+               {
+                    "bookingDate": "2020-11-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29NOV20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DCB07BE6989EB740A6FCBF89F3A615D2C3F06F1B8FCBB8E7269B4A8B61E436DE9"
+               },
+               {
+                    "bookingDate": "2020-11-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26NOV20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2319B3045CBD3B691F1F5E17FB8C997DE3C59D7F50DD720263CC381D5CA0047D"
+               },
+               {
+                    "bookingDate": "2020-11-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26NOV20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2319B3045CBD3B691F1F5E17FB8C997D846C0DBA4BBDB55BCAB4CE56C37E205D"
+               },
+               {
+                    "bookingDate": "2020-11-26",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 25NOV20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-34.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D66ECEF0D95CF5AD662BE385652AC551E098C83C24D9EA1C90641F7024C013B68"
+               },
+               {
+                    "bookingDate": "2020-11-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24NOV20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1B0C399FB0E804A3919F04697040DEED1A6C1315466CDCE579E2052D298E1F45"
+               },
+               {
+                    "bookingDate": "2020-11-18",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 17NOV20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-13.30",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D62B57ACA777099FF67D205DC01463C0DF61F8A9EE0F27126FE716FFD89A0CF88"
+               },
+               {
+                    "bookingDate": "2020-11-12",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF1CEA5C6CEB434686FB6414365BE2AA483324C5532FC94F4728CF5161B864F19"
+               },
+               {
+                    "bookingDate": "2020-11-03",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 02NOV20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-89.76",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D402816D70442A7F8EA0CF263FDCB3A173977C3B97408CF372AE828356FD86EC3"
+               },
+               {
+                    "bookingDate": "2020-11-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01NOV20      X1BOOST           TSIM SHA TSUI HK  EUR           7.99VRATE       1.1051N-S TRN FEE   0.20",
+                    "transactionAmount": {
+                         "amount": "-7.43",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D8D3595F2EBC4FE17FA8523791814E0AA990466023B9ED9069DD4F4E281951C71"
+               },
+               {
+                    "bookingDate": "2020-10-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29OCT20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBEED3A9067487B5155D9F216EE77B603A5E11534ACDBD10507884BDB9171A84E"
+               },
+               {
+                    "bookingDate": "2020-10-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 27OCT20      STEAM PURCHASE    SEATTLE DE",
+                    "transactionAmount": {
+                         "amount": "-3.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBEED3A9067487B5155D9F216EE77B60379EE42782F51704A81F0F3ABCEFBA77E"
+               },
+               {
+                    "bookingDate": "2020-10-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 28OCT20      AMZ*PAULA'S CHOICEEUR               AMAZON.CO.UK GB   REFUND",
+                    "transactionAmount": {
+                         "amount": "53.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC8BBA04DFC721C79E0B32CCA195B350F5C7A27955122327C07E523015B842D9A"
+               },
+               {
+                    "bookingDate": "2020-10-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26OCT20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D5574623C96E9E7A0781729DF486D2A35FB14911C83640E6B7965AA8B2752DB88"
+               },
+               {
+                    "bookingDate": "2020-10-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26OCT20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D5574623C96E9E7A0781729DF486D2A35B5CF1189A064ABE25E1BB8416E5320B9"
+               },
+               {
+                    "bookingDate": "2020-10-26",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 25OCT20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-66.95",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE50CEAC2F09A38D52BF65E65EEA15B8B3636EA81BE972CF6F9AA4BEDE6772853"
+               },
+               {
+                    "bookingDate": "2020-10-26",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24OCT20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE50CEAC2F09A38D52BF65E65EEA15B8BCE350D458669DFF592C6D3C8454DB433"
+               },
+               {
+                    "bookingDate": "2020-10-22",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 21OCT20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-30.05",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D7330E0F649D7E627D5E3312C6551C43CF565E41EC337467289B5BCB70100CDDB"
+               },
+               {
+                    "bookingDate": "2020-10-12",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D76770824CAB0D291736933AC2C9427E441379562FCA6B73323C2490709B12D76"
+               },
+               {
+                    "bookingDate": "2020-10-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04OCT20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-10.58",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3FA966D79596161969281BBF072B9ECF5ADB32BB304C4781EC1077FCBE845FDB"
+               },
+               {
+                    "bookingDate": "2020-10-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01OCT20      RIOT* LW0MDP1L1TBEDUBLIN IE",
+                    "transactionAmount": {
+                         "amount": "-5.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE6784657677C28CDFA3A68C90E2A354893FA12DD1796021F04AD49CB41920DB1"
+               },
+               {
+                    "bookingDate": "2020-09-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29SEP20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE4B461E1525BC54112231485F1295E9481522D8B566215D5EFF843A77E2DDD69"
+               },
+               {
+                    "bookingDate": "2020-09-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26SEP20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D91E82BD36869D0C3EDACE40AF1FCCBBF48C58001BA494E8848DECA6556AA4F73"
+               },
+               {
+                    "bookingDate": "2020-09-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26SEP20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D91E82BD36869D0C3EDACE40AF1FCCBBFD1348FC7D1B2B51539DFB190CD4AA6BD"
+               },
+               {
+                    "bookingDate": "2020-09-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24SEP20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D44B2460C400AF502CED6201FBE0CEE2880FF0BDDCBDBEC17EC9AB081760FA6F6"
+               },
+               {
+                    "bookingDate": "2020-09-14",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D670E5203192DC7937535E238021471C1CA8C5317D9C404EE12B7774A064BB659"
+               },
+               {
+                    "bookingDate": "2020-09-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29AUG20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3D0B04CCF4F5F58FBF02FF07A98824614382B63B23E015F942DB597C0302EF80"
+               },
+               {
+                    "bookingDate": "2020-08-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26AUG20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4F6006C8A6A0E587DA92C15E9EC2823374CFE90A8A7AA284DC8534AF16AAB2E9"
+               },
+               {
+                    "bookingDate": "2020-08-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26AUG20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4F6006C8A6A0E587DA92C15E9EC28233E6BF9C6AC84C58FEFD0557C5C4E26269"
+               },
+               {
+                    "bookingDate": "2020-08-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24AUG20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1359CBFBC20920CDC70BB92B03AE2A812B4F1ED8AB00D059A0F3433DB35A6F98"
+               },
+               {
+                    "bookingDate": "2020-08-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 18AUG20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-32.95",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF744A8FE41BEC83ADFC78894D4693CBEE7196D161300487D09D03A449024A0BE"
+               },
+               {
+                    "bookingDate": "2020-08-18",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 17AUG20      NORTON            *AP1318922446     DUBLIN IE",
+                    "transactionAmount": {
+                         "amount": "-59.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6249492E0B455D9342A5D49A7389C601A709D2DDE1FD6C9A75D096D31608FCFC"
+               },
+               {
+                    "bookingDate": "2020-08-18",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 17AUG20      AMZNMKTPLACE      AMAZON.CO         AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-10.86",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D6249492E0B455D9342A5D49A7389C6014D148BBD4B99D02E38941BC040EBA625"
+               },
+               {
+                    "bookingDate": "2020-08-12",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "HAZELWOOD SPORTS  INITIAL PAYMENT",
+                    "transactionAmount": {
+                         "amount": "-15.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D2B3455E6473A56237A238CA4BA151E4E38A90E8BD4433502D079030FB554A3E0"
+               },
+               {
+                    "bookingDate": "2020-08-10",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "HARRI PRASAD      TEBBIS            FP 08/08/20 1707  00151110632BBKRPCH",
+                    "transactionAmount": {
+                         "amount": "30.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DA28001FF074D1C20012E731BE9294ECB26AAFD5BE2268FFD8E8337BAA44C0F3A"
+               },
+               {
+                    "bookingDate": "2020-08-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08AUG20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-7.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DA28001FF074D1C20012E731BE9294ECBE83BC6DE4DFC2051EA3545D27678767E"
+               },
+               {
+                    "bookingDate": "2020-08-07",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 06AUG20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-8.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D9E7B6778836BB6E09BC68CCB253CD48C5FFC4F5C5759C9BD36D7D850AC02635E"
+               },
+               {
+                    "bookingDate": "2020-08-03",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 02AUG20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-22.98",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D5EFB53D0DF5F0F860E5B8794FC8C26FE712A9EB82BB17F31223F5B8A81B90A6F"
+               },
+               {
+                    "bookingDate": "2020-08-03",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01AUG20      PAYPAL *MYPROTEIN 35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-137.31",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D5EFB53D0DF5F0F860E5B8794FC8C26FE35C8F40DD2C49C8B509FD2AB4A9E017C"
+               },
+               {
+                    "bookingDate": "2020-07-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29JUL20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB09747AD76EDB518D13628F178B0E04162D87DE1B1DFB9882D09F72D0A4E0329"
+               },
+               {
+                    "bookingDate": "2020-07-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 28JUL20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DBE57AD470988B4E8B72CF7054B3AF3B7DEF71BDE075A36FCE830EE326AEE7BBA"
+               },
+               {
+                    "bookingDate": "2020-07-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 27JUL20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-16.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC247F032DC5C21F43A9A90CB3286951C73FF816D7CEBB2A6D98375F635EAF8F0"
+               },
+               {
+                    "bookingDate": "2020-07-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 27JUL20      AMZNMKTPLACE      AMAZON.CO.UK GB",
+                    "transactionAmount": {
+                         "amount": "-138.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC247F032DC5C21F43A9A90CB3286951C7CE9E2C3DE27D036C96AC0593E7778F5"
+               },
+               {
+                    "bookingDate": "2020-07-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JUL20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1C1D5BC6D652781C413FFFA1FEF384CBBB026BFC56A12EFD7255C616ABC6940A"
+               },
+               {
+                    "bookingDate": "2020-07-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JUL20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1C1D5BC6D652781C413FFFA1FEF384CBE5DE3624783611B7DD1620E2BB85AAC6"
+               },
+               {
+                    "bookingDate": "2020-07-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JUL20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1C1D5BC6D652781C413FFFA1FEF384CBE4654A72E202C9AF45CD5FB918AB29C2"
+               },
+               {
+                    "bookingDate": "2020-07-23",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 23JUL20      RIOT* LW00HS6UJUKSDUBLIN IE",
+                    "transactionAmount": {
+                         "amount": "-10.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4338FFE7887E60458A4D9AD658DD137828C3FC602260F4FA858AEE5F10FE43C6"
+               },
+               {
+                    "bookingDate": "2020-07-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11JUL20      PAYPAL            *ZOOMINGWORK      35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-1.66",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DA3E63CAA55A8926EAFD5207BF72E635EAD2F1B494DC6F103686600CD5A37376A"
+               },
+               {
+                    "bookingDate": "2020-06-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29JUN20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D15EDFD27F7B2BA1D0F316D30AFDFD2200E0A8378ADAFF86D00D1AB35E6C6819F"
+               },
+               {
+                    "bookingDate": "2020-06-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JUN20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1261552BCBC5935DCFB3B7C5186117E1C8E9C8A9816C9A2307B76964D9CA3F55"
+               },
+               {
+                    "bookingDate": "2020-06-29",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JUN20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1261552BCBC5935DCFB3B7C5186117E12A0B1C60D12CBB452A225B6BB927A8EB"
+               },
+               {
+                    "bookingDate": "2020-06-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JUN20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC879BAA1187F2AFC615DACA031033B182CD0B578F77747FB5B6925E1E4C628B6"
+               },
+               {
+                    "bookingDate": "2020-06-15",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11JUN20      PAYPAL            *ZOOMINGWORK      35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-1.64",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DD81E62503CA61D434F324B8A5282D7FA9E9AE11371BCF83E917C4DD502327C00"
+               },
+               {
+                    "bookingDate": "2020-06-04",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 03JUN20 C    SAINSBURYS S/MKTS EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-2.50",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D74507383B0BA2A8259B42AC3209946FEA083886815C4FB8036897341E47CEB25"
+               },
+               {
+                    "bookingDate": "2020-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30MAY20      PAYPAL            *APPLE.COM/BILL   35314369001 GB    REFUND",
+                    "transactionAmount": {
+                         "amount": "0.79",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D94DBD7866F891BDBA18A9B104FF0879A29331D648E0CFDB0B03CFD821529156E"
+               },
+               {
+                    "bookingDate": "2020-06-01",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29MAY20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D94DBD7866F891BDBA18A9B104FF0879A45DF633E5684FCB5AED000F4239721A0"
+               },
+               {
+                    "bookingDate": "2020-05-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAY20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D96FBB330D2F315E7F3FAC96A559F8D1F3A78640A509074F3AC45F74D49267949"
+               },
+               {
+                    "bookingDate": "2020-05-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAY20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D96FBB330D2F315E7F3FAC96A559F8D1F1C9F90FA31F24C1D26FC94FC63506B1A"
+               },
+               {
+                    "bookingDate": "2020-05-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAY20 C    TESCO STORES 2486 EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-5.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D96FBB330D2F315E7F3FAC96A559F8D1F675CF456CFB350D62D230A3FDFCFD511"
+               },
+               {
+                    "bookingDate": "2020-05-26",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24MAY20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D253F7620FF306AA7880A0B65B45B84C7374C7053184BDC8226B331CA7BF6DDCF"
+               },
+               {
+                    "bookingDate": "2020-05-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20MAY20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-0.79",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE03CFA549F4CB8159EA9FF6716F334E358616533D23DB2991E9A7CC7A9CE8A36"
+               },
+               {
+                    "bookingDate": "2020-05-19",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 17MAY20      PAYPAL            *JETBRAINSSR      35314369001 CZ",
+                    "transactionAmount": {
+                         "amount": "-142.80",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D5D02DFE8706A35004F3769C55433F7E21EC666E8C912C08ED8E601711805E9A9"
+               },
+               {
+                    "bookingDate": "2020-05-18",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 17MAY20 C    SAINSBURYS S/MKTS EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-34.45",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D989F5158B79750184F063E47C0C86ECEC7093AEA3D08C5563D821C229CB4E7C5"
+               },
+               {
+                    "bookingDate": "2020-05-14",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 13MAY20 C    SAINSBURYS S/MKTS EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-26.05",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC02EF285DBD7A6A059A0AC536C0FD7FC14A06466D3727717F923543BDE3A4F13"
+               },
+               {
+                    "bookingDate": "2020-05-12",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11MAY20      G2A.COM           INTERNET NL",
+                    "transactionAmount": {
+                         "amount": "-4.50",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D28B1DF3E508E97D8B907C76297D82EFC835D8193EEE6EA6AF348A4B5212BFD11"
+               },
+               {
+                    "bookingDate": "2020-04-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29APR20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D62463D87D10FFD48633A565C3B6712B272C46987E016B1B46199CA6F58BD6B09"
+               },
+               {
+                    "bookingDate": "2020-04-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26APR20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0A181F85DD0AC97F19D64ACD1FC4AC5F761DFD2E58273EF52376B0047EA1CD1A"
+               },
+               {
+                    "bookingDate": "2020-04-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24APR20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0A181F85DD0AC97F19D64ACD1FC4AC5FB07A0B497032B96832485517F9478821"
+               },
+               {
+                    "bookingDate": "2020-04-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26APR20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0A181F85DD0AC97F19D64ACD1FC4AC5F2CAD3365CD73F496D94C85D89307A812"
+               },
+               {
+                    "bookingDate": "2020-04-27",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "SLC DISBURSEMENTS",
+                    "transactionAmount": {
+                         "amount": "3708.04",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D0A181F85DD0AC97F19D64ACD1FC4AC5F251FE707EE4067157E93482379BF909E"
+               },
+               {
+                    "bookingDate": "2020-04-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20APR20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-0.79",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DCE84A2D8F23A794D07AB1A1E3820C94E4EEA4F7983D451AFC4D9070E68C347E5"
+               },
+               {
+                    "bookingDate": "2020-04-09",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "MR MARK W GOLDSTEI",
+                    "transactionAmount": {
+                         "amount": "160.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB72CFC8DB72B2FE026AC87679FF958E0328DFA4523EF76C763C299C2164B9D84"
+               },
+               {
+                    "bookingDate": "2020-03-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29MAR20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D9F468CD1FA72A506334190D1397F0D3BC168D7C82B248317E3E9E6ED391E6F58"
+               },
+               {
+                    "bookingDate": "2020-03-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAR20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D163BFA7EB57F38C307FB7E1042491C30711916B7D444855D6BD93273C65CB89E"
+               },
+               {
+                    "bookingDate": "2020-03-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26MAR20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D163BFA7EB57F38C307FB7E1042491C301B095D24DF174037DC0F3A5237666AB0"
+               },
+               {
+                    "bookingDate": "2020-03-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24MAR20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DA1A92CE8C1456C93F292FB5D5C08D0D4977ED3F6CE2A21111E1F6385D9B6B004"
+               },
+               {
+                    "bookingDate": "2020-03-23",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 22MAR20      AMAZON.CO.U       K*DI62N0P25       AMAZON.CO.UK LU",
+                    "transactionAmount": {
+                         "amount": "-49.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D469F60F7B54DFD3E4BC37F2BE265C9E3DF7EF36C6129CA2B13F44366E5EF990D"
+               },
+               {
+                    "bookingDate": "2020-03-23",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20MAR20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-0.79",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D469F60F7B54DFD3E4BC37F2BE265C9E3FB0EA89F39E57C7E32611D4E00B12083"
+               },
+               {
+                    "bookingDate": "2020-03-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09MAR20      JS ONLINE GROCERY 0800 328 1700 GB",
+                    "transactionAmount": {
+                         "amount": "-131.56",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D80AED1C825AAB945E915AF23F9E2B15A0F70F6B03E9BAAD0F5E337352C0AE52B"
+               },
+               {
+                    "bookingDate": "2020-03-09",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "MR MARK W GOLDSTEI",
+                    "transactionAmount": {
+                         "amount": "160.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D96927736B82D19FF97A68B12E7188F03F9B67B12A00746B06DBC7D65D8C49DC9"
+               },
+               {
+                    "bookingDate": "2020-03-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04MAR20 C    THE SUPERMA       RKET/MAIN/        EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-3.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4F4D4DFA2A3A828866EA17D5BF644484132777A1368115A10C0617B71A2C2D24"
+               },
+               {
+                    "bookingDate": "2020-03-05",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 04MAR20 C    THE SUPERMA       RKET/MAIN/        EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-2.69",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4F4D4DFA2A3A828866EA17D5BF644484CCCE6519143229EFD59061509D1496CF"
+               },
+               {
+                    "bookingDate": "2020-03-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29FEB20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D674A42F895EF5060C0EF1BA8D665718AF32CBB724E355C540DA763E0CEC03FB9"
+               },
+               {
+                    "bookingDate": "2020-02-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 27FEB20      ADOBE PHOTOGPHY   PLAN              ADOBE.COM IE",
+                    "transactionAmount": {
+                         "amount": "-34.94",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D097A96A8D6C768B05A844D93A2FAB4777C2E6583DD25B125CF9EDA902E1A0CDA"
+               },
+               {
+                    "bookingDate": "2020-02-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26FEB20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D85AA5DF4A593D7FA55934976A1D1822D9DCBCD43878B6E712B3C521E860CEA52"
+               },
+               {
+                    "bookingDate": "2020-02-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26FEB20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D85AA5DF4A593D7FA55934976A1D1822DED379E548BFB75359BFE873A5A010EDD"
+               },
+               {
+                    "bookingDate": "2020-02-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24FEB20 C    THE SUPERMA       RKET/MAIN/        EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-2.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D605E1F8D5B424A00F2619F4C6608C8DBBAFE84205FF1354CAD82845D6A3BB6D4"
+               },
+               {
+                    "bookingDate": "2020-02-25",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24FEB20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D605E1F8D5B424A00F2619F4C6608C8DB9C1BA9D51482710D6134E2F5D4ED1847"
+               },
+               {
+                    "bookingDate": "2020-02-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20FEB20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-0.79",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF39FECBC0403A55B24DE032E94693D652B342BFBCB1376EB899A8B917D417393"
+               },
+               {
+                    "bookingDate": "2020-02-10",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "MR MARK W GOLDSTEI",
+                    "transactionAmount": {
+                         "amount": "160.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DDB41816878F4102ED600E5103900F30D40093338F97D08DA04816838E0244945"
+               },
+               {
+                    "bookingDate": "2020-02-03",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01FEB20      ADOBE PHOTOGPHY   PLAN              ADOBE.LY/BILL IE",
+                    "transactionAmount": {
+                         "amount": "-9.98",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB55ABBCC438AE288B2E0EE2E48E8DAE15ACB7AAD888C8BB9CACEDD5DF0EB4F0C"
+               },
+               {
+                    "bookingDate": "2020-02-03",
+                    "proprietaryBankTransactionCode": "DPC",
+                    "remittanceInformationUnstructured": "GODINHO CALDAS M GMARIA CALDAS      VIA MOBILE - PYMT",
+                    "transactionAmount": {
+                         "amount": "100.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB55ABBCC438AE288B2E0EE2E48E8DAE1729B09424BD396EA725EB6BC9D54589F"
+               },
+               {
+                    "bookingDate": "2020-02-03",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01FEB20      JS ONLINE GROCERY 0800 328 1700 GB",
+                    "transactionAmount": {
+                         "amount": "-44.50",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB55ABBCC438AE288B2E0EE2E48E8DAE1B0C9F009715200C378321F755F5A923D"
+               },
+               {
+                    "bookingDate": "2020-02-03",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 31JAN20      SAINSBURYS S/MKTS EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-32.65",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB55ABBCC438AE288B2E0EE2E48E8DAE10BBE5CB021286E2461BD58B9F44C0BB7"
+               },
+               {
+                    "bookingDate": "2020-02-03",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "ENERGIE - HA",
+                    "transactionAmount": {
+                         "amount": "-22.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DB55ABBCC438AE288B2E0EE2E48E8DAE100F87010E18F16C982C5E39D774EA491"
+               },
+               {
+                    "bookingDate": "2020-01-31",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30JAN20      JS ONLINE GROCERY 0800 328 1700 GB",
+                    "transactionAmount": {
+                         "amount": "-68.57",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE3F3F4457EC0A5EC6032C37810C24066E768E14677E54CFBEADCD4034FC656C3"
+               },
+               {
+                    "bookingDate": "2020-01-31",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 30JAN20 C    THE SUPERMA       RKET/MAIN/        EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-2.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE3F3F4457EC0A5EC6032C37810C2406617DF0904E510A5172C47208ABFAFB3B8"
+               },
+               {
+                    "bookingDate": "2020-01-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29JAN20      JS ONLINE GROCERY 0800 328 1700 GB",
+                    "transactionAmount": {
+                         "amount": "-61.66",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3B58D9EFE18C645A3F2B3AC11E44F56A622C4701EDC3F73FE792166B699DF91C"
+               },
+               {
+                    "bookingDate": "2020-01-30",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 29JAN20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-5.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3B58D9EFE18C645A3F2B3AC11E44F56A0885C6B3F580E1E83E0F45C571F84031"
+               },
+               {
+                    "bookingDate": "2020-01-28",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 27JAN20 C    SAINSBURYS S/MKTS EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-19.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC143B367EECCA00425EF455469BFA74A8E32A822316362880FEE0F3630FF679A"
+               },
+               {
+                    "bookingDate": "2020-01-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JAN20 C    SAINSBURYS S/MKTS EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-11.55",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFC080D5D42EC844BA729F86DD17AE713575E01DCD5284BD4A64A3F27188C7927"
+               },
+               {
+                    "bookingDate": "2020-01-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JAN20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-2.49",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFC080D5D42EC844BA729F86DD17AE713BC90426D5E58AF0347EC8ABA1D38DDC3"
+               },
+               {
+                    "bookingDate": "2020-01-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 24JAN20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-14.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFC080D5D42EC844BA729F86DD17AE713B0B1C55E6C0A485848D95C2D79F1005E"
+               },
+               {
+                    "bookingDate": "2020-01-27",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 26JAN20      BLIZZARD          ENTERTAINMENT     VERSAILLES FR",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFC080D5D42EC844BA729F86DD17AE7133E245DAEB6401EE12B09C0545E35A667"
+               },
+               {
+                    "bookingDate": "2020-01-24",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 23JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-7.56",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DFE458AE2640D83E4B05A4F7636E502C885844A074AE9621F2BDC52A2BB9C3345"
+               },
+               {
+                    "bookingDate": "2020-01-22",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 21JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-7.56",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DCDAC9DEA81BA727A3A15E10D995C5D1BDA8F033E0F5375BD2260C727FF9D9502"
+               },
+               {
+                    "bookingDate": "2020-01-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20JAN20      PAYPAL            *APPLE.COM/BILL   35314369001 GB",
+                    "transactionAmount": {
+                         "amount": "-0.79",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1EE23E8D1A7A1F3BBEF87EC1E29639889A0D9AB9624EF5F0A0415A35FE6C0DB9"
+               },
+               {
+                    "bookingDate": "2020-01-21",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 20JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-7.56",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D1EE23E8D1A7A1F3BBEF87EC1E2963988EEE7C25AD92A5B153DD6451603707697"
+               },
+               {
+                    "bookingDate": "2020-01-20",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 19JAN20      SAINSBURYS SMKT   PADDINGTON GB",
+                    "transactionAmount": {
+                         "amount": "-1.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4643CD9CAFCE8CF266F8DD4CAB8F95311A3D6F3F6419376DC0796F928FDBA6E9"
+               },
+               {
+                    "bookingDate": "2020-01-20",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 16JAN20 C    BARBURRITO        PADDINGTON        LONDON GB",
+                    "transactionAmount": {
+                         "amount": "-9.25",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4643CD9CAFCE8CF266F8DD4CAB8F95312A8C6ECD9ACBF569B3EA8C4E7A4AE6A0"
+               },
+               {
+                    "bookingDate": "2020-01-20",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 19JAN20 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-3.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4643CD9CAFCE8CF266F8DD4CAB8F9531312C9D09E377AB7FFBD722F90FF3ECF8"
+               },
+               {
+                    "bookingDate": "2020-01-17",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 16JAN20 C    TFL TRAVEL CH     TFL.GOV.UK/CP GB",
+                    "transactionAmount": {
+                         "amount": "-3.10",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D15233EF5B91953CA98DEE4BB28AF5D0B7D4167B77C434BC2EB7DB13647C47B20"
+               },
+               {
+                    "bookingDate": "2020-01-16",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 15JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-7.56",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC1CD5742D308636FA9557DEC18E85CC52385083F827879F2B6D32C8EEB3C7DA1"
+               },
+               {
+                    "bookingDate": "2020-01-14",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 13JAN20 C    SAINSBURYS S/MKTS EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-17.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D909E50304AFB88AFA894761A69E41D81D3F075C4B279645B27AE4AFB3FC66A4E"
+               },
+               {
+                    "bookingDate": "2020-01-14",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 13JAN20      RIOT*LOL          DUBLIN 2 IE",
+                    "transactionAmount": {
+                         "amount": "-5.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D909E50304AFB88AFA894761A69E41D81404FC0E1B4CDF1B1C24E15FBDF762783"
+               },
+               {
+                    "bookingDate": "2020-01-13",
+                    "proprietaryBankTransactionCode": "DPC",
+                    "remittanceInformationUnstructured": "MARIA CALDAS      JACK ZIMMERMAN    VIA ONLINE - PYMT",
+                    "transactionAmount": {
+                         "amount": "-3500.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF08083AF8995DBDE8D11ED350F50DFDF4F109A3CB0890D6BE6796C0DC99C1CD1"
+               },
+               {
+                    "bookingDate": "2020-01-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 10JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-10.95",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF08083AF8995DBDE8D11ED350F50DFDFDF98E17C1A0DD416BD516B39DEBEB274"
+               },
+               {
+                    "bookingDate": "2020-01-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 12JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-7.56",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF08083AF8995DBDE8D11ED350F50DFDFA7318C22B9F073E094B58250D17EFD19"
+               },
+               {
+                    "bookingDate": "2020-01-13",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 11JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-7.56",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DF08083AF8995DBDE8D11ED350F50DFDFEE57F7791EBBF554493014252CBAB4E7"
+               },
+               {
+                    "bookingDate": "2020-01-10",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 09JAN20 C    THE SUPERMA       RKET/MAIN/        EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-6.58",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D4F9031FA8363F663A0F01851E66BA34E32C685D41433F1ECBCAD1493A2032EF0"
+               },
+               {
+                    "bookingDate": "2020-01-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-4.17",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE229138DF8BF235451F750C6E77265B1FE6085CB2067804A2D1A0539FD43F076"
+               },
+               {
+                    "bookingDate": "2020-01-09",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "MR MARK W GOLDSTEI",
+                    "transactionAmount": {
+                         "amount": "160.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE229138DF8BF235451F750C6E77265B1F0DEBD85B2679DF05DFC1797EA47ED2F"
+               },
+               {
+                    "bookingDate": "2020-01-09",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 08JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-4.78",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DE229138DF8BF235451F750C6E77265B180A75E2B6C8FE01632E20B326A25A57C"
+               },
+               {
+                    "bookingDate": "2020-01-08",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 07JAN20 C    MCDONALDS         EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-4.17",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3E4AC372F3A235EACAE8187C0E88014E71B60A96B77B9905B80BF911A28B63A5"
+               },
+               {
+                    "bookingDate": "2020-01-07",
+                    "proprietaryBankTransactionCode": "BAC",
+                    "remittanceInformationUnstructured": "SLC DISBURSEMENTS",
+                    "transactionAmount": {
+                         "amount": "3598.98",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC7DD0864652419C6D0FDC63EDEEC93AEEDD540C2A83046921FE2CE5627251064"
+               },
+               {
+                    "bookingDate": "2020-01-07",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 06JAN20 C    THE SUPERMA       RKET/MAIN/        EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-4.00",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781DC7DD0864652419C6D0FDC63EDEEC93AE2DBFBFD966E00603A964A0CE56BA502E"
+               },
+               {
+                    "bookingDate": "2020-01-06",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 03JAN20 C    SAINSBURYS S/MKTS EXETER GB",
+                    "transactionAmount": {
+                         "amount": "-7.80",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D5F31502CC34EF15020B52ECF48FFF0484D6972955BBAA1A089A1338526677DDB"
+               },
+               {
+                    "bookingDate": "2020-01-02",
+                    "proprietaryBankTransactionCode": "D/D",
+                    "remittanceInformationUnstructured": "ENERGIE - HA",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3F84178A5BCBCB9310DA343968AADB385D40390B6875A3CCC815C266EA381D25"
+               },
+               {
+                    "bookingDate": "2020-01-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01JAN20      ADOBE PHOTOGPHY   PLAN              ADOBE.LY/BILL IE",
+                    "transactionAmount": {
+                         "amount": "-9.98",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3F84178A5BCBCB9310DA343968AADB38401912876CB8378AE7A3F452337B65D6"
+               },
+               {
+                    "bookingDate": "2020-01-02",
+                    "proprietaryBankTransactionCode": "POS",
+                    "remittanceInformationUnstructured": "8914 01JAN20      UDEMY             +905326253880 IE",
+                    "transactionAmount": {
+                         "amount": "-9.99",
+                         "currency": "GBP"
+                    },
+                    "transactionId": "3BB255BE35F2A15AA95D96023A86781D3F84178A5BCBCB9310DA343968AADB384666F2F5A3E34E67C0D971FF1E831AAC"
+               }
+          ],
+          "pending": []
+     }
+}
